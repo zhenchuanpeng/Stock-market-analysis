@@ -1,0 +1,4 @@
+include ':simulateddata'
+include ':chartmodule'
+include ':app'
+rootProject.name = "SharesApplication"
